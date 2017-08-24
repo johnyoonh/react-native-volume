@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactlibrary.RNVolumePackage;
 
 import android.content.Context;
 import android.database.ContentObserver;
